@@ -1,0 +1,5 @@
+{
+  "name": "Wind Power Defense",
+  "description": "A Missile Command style tower defense game where you protect offshore wind turbines from falling rockets.",
+  "requestFramePermissions": []
+}
